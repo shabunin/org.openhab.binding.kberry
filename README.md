@@ -1,3 +1,12 @@
+# deprecation warning
+
+I'm not mantaining more this binding.
+
+For more info take a look at:
+https://github.com/shabunin/org.openhab.binding.kberry/issues/1
+https://github.com/openhab/openhab-addons/issues/4126
+
+
 # org.openhab.binding.kberry
 
 All following steps I'm running under linux, javac version 1.8.0_212.
